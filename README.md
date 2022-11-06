@@ -41,6 +41,7 @@ API_KEY_SECRET="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ACCESS_TOKEN="0000000000000000000-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ACCESS_TOKEN_SECRET="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ```
+
 また`.gitignore`で`.env`を追加しているので`git`の追跡対象外にしています。
 
 ### 注意事項

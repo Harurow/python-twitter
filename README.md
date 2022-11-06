@@ -8,16 +8,16 @@
 
 * pythonが利用できる環境
 * `tweepy`が利用できる環境
-* `dotenv`が利用できる環境
+* `python-dotenv`が利用できる環境
 * TwitterAPI認証情報
 
-### `tweepy`,`dotenv`について
+### `tweepy`,`python-dotenv`について
 
-`tweepy`,`dotenv`を利用しているので事前に`pip`または`pip3`でインストールが必要です
+`tweepy`,`python-dotenv`を利用しているので事前に`pip`または`pip3`でインストールが必要です
 
 ```sh
 # 例
-pip install tweepy dotenv
+pip install tweepy python-dotenv
 ```
 
 ### TwitterAPI認証情報について
